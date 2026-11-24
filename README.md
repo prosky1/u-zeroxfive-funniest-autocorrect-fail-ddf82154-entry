@@ -6,4 +6,4 @@
 
 Entry for the [Funniest Autocorrect Fail](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154) bounty on make.fun.
 
-`main.py` writes exactly one line — a hilarious autocorrect fail, 108 characters — to `/output/entry.txt` and nothing else.
+`main.py` writes exactly one line — a hilarious autocorrect fail, 74 characters — to `/output/entry.txt` and nothing else.
